@@ -1,8 +1,0 @@
-C:\Users\WINDOWS 10\Desktop\Praktik2\МДК Огурцов\GitHub\Hello World\Hello World\bin\Debug\Hello World.exe.config
-C:\Users\WINDOWS 10\Desktop\Praktik2\МДК Огурцов\GitHub\Hello World\Hello World\bin\Debug\Hello World.exe
-C:\Users\WINDOWS 10\Desktop\Praktik2\МДК Огурцов\GitHub\Hello World\Hello World\bin\Debug\Hello World.pdb
-C:\Users\WINDOWS 10\Desktop\Praktik2\МДК Огурцов\GitHub\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
-C:\Users\WINDOWS 10\Desktop\Praktik2\МДК Огурцов\GitHub\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
-C:\Users\WINDOWS 10\Desktop\Praktik2\МДК Огурцов\GitHub\Hello World\Hello World\obj\Debug\Hello World.exe
-C:\Users\WINDOWS 10\Desktop\Praktik2\МДК Огурцов\GitHub\Hello World\Hello World\obj\Debug\Hello World.pdb
-C:\Users\WINDOWS 10\Desktop\Praktik2\МДК Огурцов\GitHub\Hello World\Hello World\obj\Debug\Hello World.exe.config
